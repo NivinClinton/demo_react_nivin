@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  background-color: #232325;
+}
+
+.cardDiv{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
 }
 
 .App-logo {
